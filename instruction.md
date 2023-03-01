@@ -137,26 +137,36 @@ make clean
             <td align="center" valign="middle">
                 <a href="https://github.com/cheremshin" title="cheremshin">
                     <img valign="middle" width="64px" height="64px" src="https://avatars.githubusercontent.com/u/91583699?v=4">
-                    ⭐ cheremshin
                 </a>
             </td>
             <td align="center" valign="middle">
                 <a href="https://github.com/sanddony" title="sanddony">
                     <img valign="middle" width="64px" height="64px" src="https://avatars.githubusercontent.com/u/42729400?v=4">
-                    ⭐ sanddony
                 </a>
             </td>
             <td align="center" valign="middle">
                 <a href="https://github.com/kaylebee" title="kaylebee">
                     <img valign="middle" width="64px" height="64px" src="https://avatars.githubusercontent.com/u/111429825?v=4">
-                    ⭐ kaylebee
                 </a>
             </td>
             <td align="center" valign="middle">
                 <a href="https://github.com/Txnsky" title="Txnsky">
                     <img valign="middle" width="64px" height="64px" src="https://avatars.githubusercontent.com/u/126697890?v=4">
-                    ⭐ Txnsky
                 </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" valign="middle">
+                <a href="https://github.com/cheremshin" title="cheremshin">cheremshin</a>
+            </td>
+            <td align="center" valign="middle">
+                <a href="https://github.com/sanddony" title="sanddony">sanddony</a>
+            </td>
+            <td align="center" valign="middle">
+                <a href="https://github.com/kaylebee" title="kaylebee">kaylebee</a>
+            </td>
+            <td align="center" valign="middle">
+                <a href="https://github.com/Txnsky" title="Txnsky">Txnsky</a>
             </td>
         </tr>
     </tbody>
